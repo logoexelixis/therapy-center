@@ -1,0 +1,9 @@
+/* Global basic styling για όλη την εφαρμογή */
+html, body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: #f9fafb;
+}
+button:hover {
+  opacity: 0.9;
+}
